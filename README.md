@@ -19,7 +19,7 @@
   <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Miguel-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />     
-  <img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/761900005795168257/761900005795168260/981358694619025419">
+  <img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src="">
 </div>
   
 ##
