@@ -1,5 +1,6 @@
 ### Olá, me chamo Pedro Miguel 👋
 
+- 🛸 Curso Ciências da Computação - UFCA
 - 🔭 No momento estou trabalhando como Full stack.
 - 🌱 Estudando FrontEnd (html, css, js).
 - 📫 Contate-me no email: pedromiguelmgaldino@gmail.com
