@@ -4,7 +4,7 @@
 - 🔭 No momento estou trabalhando como Full stack.
 - 🌱 Estudando FrontEnd (html, css, js).
 - 📫 Contate-me no email: pedromiguelmgaldino@gmail.com
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: ele/dele.
 
 <div align="center">
   <a href="https://github.com/PedroMiguel7">
