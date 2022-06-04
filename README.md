@@ -1,4 +1,4 @@
-### Olá, me chamo Pedro Miguel 👋 (esse git é novo, ainda estou migrando projetos passados para ele)
+### Olá, me chamo Pedro Miguel 👋 (esse conta git é nova, ainda estou migrando projetos passados para ela)
 
 - 🛸 Curso Ciências da Computação - UFCA
 - 🔭 No momento estou trabalhando como Full stack.
