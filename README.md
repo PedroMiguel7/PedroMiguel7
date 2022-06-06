@@ -1,6 +1,6 @@
 ### Olá, me chamo Pedro Miguel 👋 (esse conta git é nova, ainda estou migrando projetos passados para ela)
 
-- 🛸 Curso Ciências da Computação - UFCA
+- 🛸 Curso Ciências da Computação - UFCA.
 - 🔭 No momento estou trabalhando como Full stack.
 - 🌱 Estudando FrontEnd (html, css, js).
 - 📫 Contate-me no email: pedromiguelmgaldino@gmail.com
