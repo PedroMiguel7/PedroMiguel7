@@ -2,7 +2,7 @@
 
 - 🛸 Curso Ciências da Computação - UFCA.
 - 🔭 No momento estou trabalhando como Full stack.
-- 🌱 Estudando FrontEnd (html, css, js).
+- 🌱 Estudando BackEnd (golang).
 - 📫 Contate-me no email: pedromiguelmgaldino@gmail.com
 - 😄 Pronomes: ele/dele.
 
