@@ -1,7 +1,6 @@
 ### Olá, me chamo Pedro Miguel 👋 (esse conta github é nova, ainda estou migrando projetos passados para ela)
 
 - 🛸 Curso Ciências da Computação - UFCA.
-- 🔭 No momento estou trabalhando como Full stack.
 - 🌱 Estudando BackEnd (golang).
 - 📫 Contate-me no email: pedromiguelmgaldino@gmail.com
 - 😄 Pronomes: ele/dele.
