@@ -1,4 +1,4 @@
-### Olá, me chamo Pedro Miguel 👋 (esse conta github é nova, ainda estou migrando projetos passados para ela)
+### Olá, me chamo Pedro Miguel 👋
 
 - 🛸 Curso Ciências da Computação - UFCA.
 - 🌱 Estudando BackEnd (golang).
