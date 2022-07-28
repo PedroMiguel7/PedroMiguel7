@@ -19,6 +19,7 @@
 <img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src=""> --->
 </div>
   
+  ![macacinho](https://github.com/jglovier/gifs/blob/gh-pages/crying/peter-parker-crying.gif)
 ##
   <!--
   <div>
