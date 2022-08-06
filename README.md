@@ -1,4 +1,3 @@
-### Olá, me chamo Pedro Miguel 👋
 - 🌱 Estudando BackEnd.
 - 📫 Contate-me no email: pedromiguelmgaldino@gmail.com
 
