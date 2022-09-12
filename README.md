@@ -1,4 +1,3 @@
-- 🌱 Estudando BackEnd.
 - 📫 Contate-me no email: pedromiguelmgaldino@gmail.com
 
 <div align="center">
