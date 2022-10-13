@@ -16,7 +16,8 @@
   <img align="center" alt="miguel-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="miguel-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="miguel-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-<img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src="https://github.com/jglovier/gifs/blob/gh-pages/crying/peter-parker-crying.gif">
+<!--
+<img align="right" alt="Miguel-pic" height="150" style="border-radius:50px;" src="https://github.com/jglovier/gifs/blob/gh-pages/crying/peter-parker-crying.gif"> -->
 </div>
   
   <!--
