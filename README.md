@@ -7,9 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMiguel7&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<h3> Languages and Frameworks:</h3>
 <br>
 <div> 
+<h3> Languages and Frameworks:</h3>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
 
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
