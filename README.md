@@ -1,6 +1,7 @@
 ## Hi, i'm Pedro Miguel
 - 📫 Contact me by email: pedromiguelmgaldino@gmail.com
 
+<img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer; Gostoso+Developer;">
 <div align="center">
   <a href="https://github.com/PedroMiguel7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMiguel7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
