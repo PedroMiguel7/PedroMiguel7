@@ -2,10 +2,14 @@
 - 📫 Contact me by email: pedromiguelmgaldino@gmail.com
 
 <img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer">
+
+# 📊 GitHub Stats:
 <div align="center">
-  <a href="https://github.com/PedroMiguel7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMiguel7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMiguel7&layout=compact&langs_count=7&theme=dracula"/>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=PedroMiguel7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=PedroMiguel7&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMiguel7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 <br>
