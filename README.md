@@ -6,8 +6,12 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=PedroMiguel7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMiguel7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <a href="https://github.com/PedroMiguel7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMiguel7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/PedroMiguel7">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMiguel7&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 
 </div>
 
