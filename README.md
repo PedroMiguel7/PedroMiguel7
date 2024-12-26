@@ -37,7 +37,7 @@
   <h3>Contact us at:</h3>
 <a href="mailto:pedromiguelmgaldino@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=dannalves111@gmail.com" /></a>
-<a href="https://www.linkedin.com/in/pedro-miguel-70035a1a4/" alt="Linkedin">
+<a href="https://www.linkedin.com/in/pedromgaldino/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alves-danilo" /></a>
 <a href="https://www.instagram.com/eipedromiguel/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mizekd/"/></a>
