@@ -1,6 +1,6 @@
 ## Hi, i'm Pedro Miguel
 
-<img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&vCenter=true&width=435&lines=FullStack+Developer;">
+<img align="center" width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&center=true&vCenter=true&width=435&lines=Software+Developer;">
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -38,5 +38,5 @@
 <a href="mailto:pedromiguelmgaldino@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=pedromiguelmgaldino@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/pedromgaldino/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alves-danilo](https://www.linkedin.com/in/pedromgaldino/)" /></a>
+<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromgaldino](https://www.linkedin.com/in/pedromgaldino/)" /></a>
 </p>
